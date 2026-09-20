@@ -44,6 +44,7 @@ export default () => {
                   <p>C’est ainsi qu’à plus de <C1>58 ans</C1>, après une <u>formation littéraire</u> et un parcours en droit européen, économie et finances, j’ai décidé de me lancer dans l’étude des plantes. J’ai suivi une formation certifiée de deux ans en herboristerie à l’EFP, puis continué à me former au jardin médicinal et à la transformation raisonnée des plantes.</p>
                   <p>Je n’arrêterai jamais de me former, de m’informer et de m’ouvrir à de nouvelles dynamiques.</p>
                   <p>Parce que pour moi, l’herboristerie est avant tout une rencontre entre la <u>connaissance</u>, l’expérience et le <C1>vivant</C1>.</p>
+                  <p style={{ marginTop: "1.5rem", fontStyle: "italic", textAlign: "right", fontSize: "1.2rem" }}><C1>Ariane Meunier</C1></p>
                 </Text>
               </Center>
             </Col>
