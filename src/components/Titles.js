@@ -41,7 +41,7 @@ export const H3 = styled.h3`
 `;
 
 export const Center = styled.div`
-  padding: 50px 0px;
+  padding: 30px 0px;
   margin: auto;
 
   @media (max-width: 1280px) {
@@ -49,7 +49,7 @@ export const Center = styled.div`
   }
 
   @media (min-width: 1280px) {
-    width: 70%;
+    width: 75%;
   }
 `;
 
