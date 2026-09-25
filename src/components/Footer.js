@@ -18,16 +18,7 @@ export default () => {
             {SETTINGS.title} © {new Date().getFullYear()}
           </Col>
           <Col md="6">
-            <Nav className=" nav-footer justify-content-end">
-              <NavItem>
-                {/* <NavLink
-                  href="https://opensource.org/licenses/MIT"
-                  target="_blank"
-                >
-                  MIT License
-                </NavLink> */}
-              </NavItem>
-            </Nav>
+            {SETTINGS.title} ne sont pas des soins médicaux.
           </Col>
         </Row>
       </Container>
